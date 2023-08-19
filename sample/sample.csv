@@ -1,0 +1,3 @@
+role,user_name,password,status,first_name,last_name,finger_id,department,designation,branch,supervisor_user_name,work_shift,monthly_grade,hourly_grade,email,date_of_birth,date_of_joining,date_of_leaving,marital_status,address,emergency_contacts,gender,religion,phone
+Employee,bulkEmployee1,123456,1,Shakhawat ,hossain,2304,Software Development,Full Stack Developer,Ashulia Branch,user88,Day,         A,,shakhawat21@gmail.com,1994-10-13,2015-02-12,,married,lorems,m address,Male,islam,26666655666
+Employee,Julaibib,123,1,Julaibib,Khan,21123,Software Development,Full Stack Developer,Ashulia Branch,julaibib17,Day,B,,julaibib17@gmail.com,1996-05-17,2016-05-17,,married,lorems,m address,Male,islam,18349483832
